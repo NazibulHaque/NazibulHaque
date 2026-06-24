@@ -63,9 +63,9 @@
 
 <div align="center">
 
-![Nazibul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Nazibul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NazibulHaque&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NazibulHaque&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -85,6 +85,6 @@
 
 ### ⭐ *"Consistency beats talent when talent doesn't work hard."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=NazibulHaque&color=blue&style=flat-square)
 
 </div>
