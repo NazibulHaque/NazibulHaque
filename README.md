@@ -63,9 +63,9 @@
 
 <div align="center">
 
-![Nazibul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NazibulHaque&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=NazibulHaque&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NazibulHaque&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazibulHaque&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
