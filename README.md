@@ -1,9 +1,5 @@
 <div align="center">
 
-
-
-<br/>
-
 <a href="https://github.com/NazibulHaque">
   <img src="https://readme-typing-svg.demolab.com/?lines=Nazibul+Haque+Shuvo;Software+Developer+%F0%9F%87%A7%F0%9F%87%A9;Laravel+%2B+PHP+%2B+Go;Building+ERP%2C+POS+%26+Marketplace+Systems;Always+Shipping+%E2%9A%A1&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=800&color=6366F1&vCenter=true&size=24&weight=600" alt="Typing SVG" />
 </a>
@@ -137,21 +133,11 @@ Lightweight helpdesk & support ticketing system for small teams.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NazibulHaque&theme=tokyonight&hide_border=true&background=0f172a&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazibulHaque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6366f1&langs_count=8" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NazibulHaque&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=6366f1&line=6366f1&point=ffffff" width="100%"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4">
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/NazibulHaque/NazibulHaque/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>⚙️ Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — auto-generated via GitHub Actions</sub>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4">
 
 ## 📫 Let's Connect
 
